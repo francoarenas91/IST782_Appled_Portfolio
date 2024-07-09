@@ -1,0 +1,73 @@
+---
+title: "Eurostat Quality of Life Data Explorer"
+output: pdf_document
+date: "Francisco Franco Arenas, Choijamts Bataa, Pranjal Singh"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Project description
+
+This project aims to create a data explorer for Eurostat, covering various topics related to quality of life.
+
+Eurostat ranks among the most frequently queried official statistical agencies, as it encompasses data from all 27 EU member states and additional countries. However, accessing this information is not intuitive for non-technical users. Our goal is to address this issue by developing a data exploratory solution in Tableau, tailored to individual statistics, to provide a visual and intuitive view of the data. This approach also facilitates comparisons across countries and demographics.
+
+The data for the project was acquired from Eurostat using a pipeline in R with GET requests, involving the transformation and decoding of data, and selecting only the 27 EU member countries. It involves storing a file for each topic in binary format (.RData) for loading into Tableau. The data model employs a star schema, with the central table comprising all possible combinations of date and geography.
+
+The visualization in Tableau is organized into several topics, each featuring at least one dashboard that explores cross-country statistics for the respective data. The work has been distributed among team members based on topic, each member responsible for the dashboards within their topics. The distribution has been:
+
+-   **Francisco Franco Arenas**: Health, Living Conditions, Job Quality.
+
+-   **Pranjal Singh**: Life Satisfaction, Government Quality, Gender Equality.
+
+-   **Choijamts Bataa:** Crime, Education
+
+Data is available at <https://ec.europa.eu/eurostat/data/database>
+
+# Description of each dashboard
+
+-   **Health**:
+
+    -   Health Resources: It displays a map of number of physicians or number of hospital beds per 100,000 inhabitants within each EU region.
+
+    -   Self-Perceived Health: Here we can sort countries by their self perceived health levels, also exploring the differences among income brackets and age within each country.
+
+    -   Positive Habits: The relationship among overweight levels and positive health habits such as exercise and consumption of fruit an vegetables. As an insight, males tend to rely more on exercise, while females tend to rely more on diet.
+
+    -   Negative Habits: The alcohol and tobacco consumption patterns. Southern Europe has less problems with alcohol episodes.
+
+-   **Living Conditions**:
+
+    -   Poverty: Poverty across age groups and regions. The different generosity of retirement pensions schemes in diferent countries explain why in some cases poverty risk increases with age, while in other decreases. We can also evaluate the efficacy of social transfers in reducing poverty.
+
+    -   Life Satisfaction: Northern Europe citizens tend to be more satisfied, notably with their financial stuation, while Southern Europe Citizens are more satisfied with their personal relationships.
+
+-   **Job Quality**:
+
+    -   Job quality: Job relations are notably bad in Poland and Italy. In all countries people have better relationship with coleagues than with supervisors. Workers with secondary education from 55 to 64 years are more likey to suffer a work related health problem.
+
+    -   Overqualification: Lower educated individuals as well as recent inmigrants are more likely to be overqualified than native-born workers. Spain have more that 50% of the workforce overqualified.
+
+-   **Life Satisfaction**:
+
+    -   Satisfaction: It displays satisfaction levels over years, as well as by gender.
+
+-   **Government Quality**:
+
+    -   Government Participation: It shows government participation by country and gender.
+
+    -   Government Trust: Trust in government and participation by country and age class.
+
+-   **Gender Equality**:
+
+    -   Pay Gap: Pay gap by country and sector.
+
+-   **Crime**:
+
+    -   Crime: Relationship among crime rates, mortgage as percentage of income and labour transitions to unemployment.
+
+-   **Education**:
+
+    -   Education: Relationship among the knowledge of foreign languages, participation rates in education and early leavers by country.

@@ -1,0 +1,169 @@
+AMBITO,reason,percentage
+Agriculture,IT and Computer Skills,9.264706940777955
+Agriculture,Languages,25.482350753884862
+Agriculture,Management and Entrepreneurship,6.302460654732359
+Agriculture,Personal and Social Skills,5.838102001440307
+Agriculture,Practical Skills,7.592847940685085
+Agriculture,Theoretical Knowledge,7.320255090280986
+Architecture,IT and Computer Skills,4.80948981164505
+Architecture,Languages,19.334599621350186
+Architecture,Management and Entrepreneurship,4.160272418270649
+Architecture,Personal and Social Skills,2.8138700583983858
+Architecture,Practical Skills,5.291709200679854
+Architecture,Theoretical Knowledge,7.421109667204703
+Arts and Communication,IT and Computer Skills,8.052737359369337
+Arts and Communication,Languages,11.789255809865452
+Arts and Communication,Management and Entrepreneurship,4.083377749677895
+Arts and Communication,Personal and Social Skills,1.5643554936576276
+Arts and Communication,Practical Skills,7.915890342593343
+Arts and Communication,Theoretical Knowledge,14.227594623934689
+Business,IT and Computer Skills,6.112188769428575
+Business,Languages,17.59557209064178
+Business,Management and Entrepreneurship,3.9715863795454887
+Business,Personal and Social Skills,2.6476338122700187
+Business,Practical Skills,7.4179789644373395
+Business,Theoretical Knowledge,10.080612810669725
+Computer Science,IT and Computer Skills,2.358967190881546
+Computer Science,Languages,11.248996285175107
+Computer Science,Management and Entrepreneurship,3.9111219911681068
+Computer Science,Personal and Social Skills,2.643999133648639
+Computer Science,Practical Skills,3.359282555219636
+Computer Science,Theoretical Knowledge,4.484326961401191
+Economics,IT and Computer Skills,4.859315271171961
+Economics,Languages,15.821123449638607
+Economics,Management and Entrepreneurship,3.3544145590439127
+Economics,Personal and Social Skills,1.8423040028349313
+Economics,Practical Skills,5.761369562967968
+Economics,Theoretical Knowledge,11.4068253097228
+Education,IT and Computer Skills,12.838831926349819
+Education,Languages,16.054665502105347
+Education,Management and Entrepreneurship,4.706756077821046
+Education,Personal and Social Skills,2.6809853173788523
+Education,Practical Skills,6.129813514675931
+Education,Theoretical Knowledge,9.522319511900927
+Engineering,IT and Computer Skills,3.5999723394305674
+Engineering,Languages,9.156112011081872
+Engineering,Management and Entrepreneurship,3.386856368950081
+Engineering,Personal and Social Skills,2.375272957398384
+Engineering,Practical Skills,5.280254003209444
+Engineering,Theoretical Knowledge,6.102389515873694
+Environmental Science,IT and Computer Skills,9.770338142857964
+Environmental Science,Languages,16.80717250920912
+Environmental Science,Management and Entrepreneurship,4.599243097940664
+Environmental Science,Personal and Social Skills,3.73886410444317
+Environmental Science,Practical Skills,10.919571650696435
+Environmental Science,Theoretical Knowledge,13.323295428909907
+Forestry,IT and Computer Skills,13.955039343379443
+Forestry,Languages,31.90119454027237
+Forestry,Management and Entrepreneurship,9.408953288709377
+Forestry,Personal and Social Skills,6.952757841397784
+Forestry,Practical Skills,9.33342452984833
+Forestry,Theoretical Knowledge,10.877181668157219
+Health Sciences,IT and Computer Skills,11.753360806204089
+Health Sciences,Languages,19.705089616169595
+Health Sciences,Management and Entrepreneurship,4.055332537221525
+Health Sciences,Personal and Social Skills,2.5577853411285716
+Health Sciences,Practical Skills,4.461579553073286
+Health Sciences,Theoretical Knowledge,3.405287487899932
+Humanities,IT and Computer Skills,14.520082204697736
+Humanities,Languages,13.282399541811468
+Humanities,Management and Entrepreneurship,6.466956027160752
+Humanities,Personal and Social Skills,3.1904109197457786
+Humanities,Practical Skills,9.365507820602055
+Humanities,Theoretical Knowledge,12.439354332628982
+Journalism,IT and Computer Skills,6.041693103544095
+Journalism,Languages,14.792058181068327
+Journalism,Management and Entrepreneurship,3.3835367891499906
+Journalism,Personal and Social Skills,2.536544640574237
+Journalism,Practical Skills,6.088396404275479
+Journalism,Theoretical Knowledge,14.07196474957207
+Languages,IT and Computer Skills,9.258946235758144
+Languages,Languages,6.678181285463729
+Languages,Management and Entrepreneurship,4.211972148833558
+Languages,Personal and Social Skills,3.1876396065694146
+Languages,Practical Skills,6.529393657932428
+Languages,Theoretical Knowledge,11.207722164392461
+Law,IT and Computer Skills,7.424670984129659
+Law,Languages,15.50130684275189
+Law,Management and Entrepreneurship,5.058100759555356
+Law,Personal and Social Skills,4.770285624222297
+Law,Practical Skills,5.977123424968274
+Law,Theoretical Knowledge,5.32370047927943
+Life Sciences,IT and Computer Skills,7.390153220589759
+Life Sciences,Languages,7.957690128121636
+Life Sciences,Management and Entrepreneurship,3.6543892751107165
+Life Sciences,Personal and Social Skills,1.6449262944923735
+Life Sciences,Practical Skills,6.835943073965152
+Life Sciences,Theoretical Knowledge,8.709836739699979
+Manufacturing,IT and Computer Skills,6.883661395128011
+Manufacturing,Languages,17.41430956330629
+Manufacturing,Management and Entrepreneurship,3.552328610035433
+Manufacturing,Personal and Social Skills,3.221157935786587
+Manufacturing,Practical Skills,6.429571712056696
+Manufacturing,Theoretical Knowledge,5.811107299708707
+Mathematics and Statistics,IT and Computer Skills,8.407433944204858
+Mathematics and Statistics,Languages,14.576967941631844
+Mathematics and Statistics,Management and Entrepreneurship,7.373245037121904
+Mathematics and Statistics,Personal and Social Skills,5.588403431647839
+Mathematics and Statistics,Practical Skills,6.678536043418689
+Mathematics and Statistics,Theoretical Knowledge,9.031837844078629
+Medicine,IT and Computer Skills,21.719874925987725
+Medicine,Languages,29.57305630261857
+Medicine,Management and Entrepreneurship,15.609536366286338
+Medicine,Personal and Social Skills,15.450380163984423
+Medicine,Practical Skills,9.001752714240405
+Medicine,Theoretical Knowledge,1.4387560271650268
+Nursing,IT and Computer Skills,20.90943457327076
+Nursing,Languages,37.381826339885
+Nursing,Management and Entrepreneurship,14.640967888463802
+Nursing,Personal and Social Skills,10.59593449159461
+Nursing,Practical Skills,7.108173393203895
+Nursing,Theoretical Knowledge,6.565073769922135
+Other services,IT and Computer Skills,4.542186179649561
+Other services,Languages,6.80180882426953
+Other services,Management and Entrepreneurship,3.585169794512108
+Other services,Personal and Social Skills,0.8491655767307825
+Other services,Practical Skills,5.700406408497089
+Other services,Theoretical Knowledge,8.285922166567747
+Physical Sciences,IT and Computer Skills,7.029092571076855
+Physical Sciences,Languages,10.767929541895503
+Physical Sciences,Management and Entrepreneurship,6.1371790611836134
+Physical Sciences,Personal and Social Skills,4.622113290103924
+Physical Sciences,Practical Skills,6.846681570904516
+Physical Sciences,Theoretical Knowledge,8.155347313662912
+Psychology,IT and Computer Skills,13.532948444039295
+Psychology,Languages,25.151279708114554
+Psychology,Management and Entrepreneurship,3.877157184403172
+Psychology,Personal and Social Skills,1.905700176770742
+Psychology,Practical Skills,5.192349373813136
+Psychology,Theoretical Knowledge,11.097978387283337
+Social Sciences,IT and Computer Skills,14.00704167907839
+Social Sciences,Languages,22.780708418577376
+Social Sciences,Management and Entrepreneurship,8.22347941747863
+Social Sciences,Personal and Social Skills,5.396390416635375
+Social Sciences,Practical Skills,12.91676081757177
+Social Sciences,Theoretical Knowledge,16.192966054225906
+Social Services,IT and Computer Skills,14.31036087452014
+Social Services,Languages,37.96236959814322
+Social Services,Management and Entrepreneurship,7.11139525502489
+Social Services,Personal and Social Skills,5.145016966564095
+Social Services,Practical Skills,8.091357728642262
+Social Services,Theoretical Knowledge,10.54116343202798
+Sport Education,IT and Computer Skills,19.379434660543104
+Sport Education,Languages,25.754294523319864
+Sport Education,Management and Entrepreneurship,6.982750659953188
+Sport Education,Personal and Social Skills,2.713605896970981
+Sport Education,Practical Skills,9.86994848818369
+Sport Education,Theoretical Knowledge,13.601112232188317
+Tourism and Leisure,IT and Computer Skills,5.397841056125169
+Tourism and Leisure,Languages,7.0968507928189455
+Tourism and Leisure,Management and Entrepreneurship,4.189616112412662
+Tourism and Leisure,Personal and Social Skills,2.018494916120968
+Tourism and Leisure,Practical Skills,7.367777132830355
+Tourism and Leisure,Theoretical Knowledge,13.294287089181125
+Veterinary,IT and Computer Skills,13.224913342132593
+Veterinary,Languages,17.36524733821268
+Veterinary,Management and Entrepreneurship,4.146928936096864
+Veterinary,Personal and Social Skills,1.3571475240435937
+Veterinary,Practical Skills,4.389610655629673
+Veterinary,Theoretical Knowledge,3.805389595579032
