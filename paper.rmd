@@ -1,6 +1,7 @@
 ---
 title: "IST 782 Applied Portfolio"
 author: "Francisco Franco Arenas"
+date: "2024-08-08"
 output:
   pdf_document: 
     toc: true
@@ -19,10 +20,14 @@ Data science stands at the intersection of statistical analysis, computational t
 
 As I reflect on my journey through the Master of Science in Applied Data Science program at Syracuse University, this paper serves as a comprehensive demonstration of how I have met the program’s learning goals through various assignments and project deliverables. Each section of this document links specific learning objectives to the practical work I have completed, showcasing not only my academic achievements but also my preparedness for a career in data science. By examining the projects I have undertaken, the methodologies I have employed, and the insights I have generated, this paper provides a holistic view of my growth as a data scientist and my readiness to tackle real-world challenges.
 
+The projects presented in this paper span a range of topics and domains, including information visualization, big data analytics, and visual analytic dashboards. Each project is linked to specific learning goals, demonstrating how I have applied my skills in data collection, analysis, visualization, and communication to generate actionable insights. Through these projects, I have honed my technical abilities, expanded my knowledge of data science methodologies, and developed a keen understanding of the ethical considerations inherent in data analysis. These experiences have not only deepened my expertise in data science but also broadened my perspective on the transformative potential of data-driven decision-making.
+
+As I embark on the next phase of my career as a data scientist, I am confident in my ability to leverage the skills and knowledge gained through this program to drive innovation, solve complex problems, and make informed decisions. The projects presented in this paper are a testament to my growth as a data scientist and my commitment to excellence in the field of data science. I look forward to applying these skills in my role as an economist, contributing to the advancement of economic research, policy analysis, and data-driven decision-making. Through continuous learning, exploration, and application of data science techniques, I am poised to make a meaningful impact in my field and drive positive change through data-driven insights.
+
 
 # 2. Learning goals
 
-The main learning goals of the program are as follows:
+The Master of Science in Applied Data Science program at Syracuse University is designed to equip students with the skills and knowledge necessary to excel in the field of data science. The main learning goals of the program are as follows:
 
 1. Collect, store, and access data by identifying and leveraging applicable technologies
 2. Create actionable insight across a range of contexts (e.g. societal, business, political), using data and the full data science life cycle
@@ -30,6 +35,8 @@ The main learning goals of the program are as follows:
 4. Use programming languages such as R and Python to support the generation of actionable insight
 5. Communicate insights gained via visualization and analytics to a broad range of audiences (including project sponsors and technical team leads)
 6. Apply ethics in the development, use and evaluation of data and predictive models (e.g., fairness, bias, transparency, privacy)
+
+In the following sections, I will demonstrate how I have met these learning goals through the completion of various projects in the Master of Science in Applied Data Science program at Syracuse University. Each project will be linked to specific learning goals, showcasing my proficiency in data collection, analysis, visualization, and communication. By examining the practical work I have completed, this paper will provide a comprehensive overview of my growth as a data scientist and my readiness to tackle real-world challenges in the field of data science. 
 
 
 \newpage
@@ -176,3 +183,4 @@ This project significantly enhanced my expertise in Tableau, allowing me to leve
 # 4. Conclusion
 
 The Master of Science in Applied Data Science program at Syracuse University has been instrumental in equipping me with the skills and knowledge necessary to excel in the field of data science. Through a combination of theoretical coursework, practical projects, and hands-on experience, I have developed a robust foundation in data analysis, machine learning, and data visualization. The projects presented in this paper demonstrate my proficiency in collecting, analyzing, and visualizing data to generate actionable insights across a range of contexts. By applying programming languages such as R and Python, I have been able to support the development of predictive models and communicate insights effectively to diverse audiences. Moreover, I have consistently applied ethical considerations in the development, use, and evaluation of data and predictive models, ensuring fairness, transparency, and privacy in my work. These projects have not only showcased my academic achievements but also highlighted my readiness to tackle real-world challenges in data science.
+
